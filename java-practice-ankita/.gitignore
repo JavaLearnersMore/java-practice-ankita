@@ -1,0 +1,60 @@
+# ===============================
+# Compiled Java files
+# ===============================
+*.class
+bin/
+out/
+target/
+build/
+
+# ===============================
+# Packaged files
+# ===============================
+*.jar
+*.war
+*.ear
+*.nar
+
+# ===============================
+# Logs and temp files
+# ===============================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ===============================
+# JVM crash logs
+# ===============================
+hs_err_pid*
+replay_pid*
+
+# ===============================
+# Eclipse IDE files
+# ===============================
+.metadata/
+.settings/
+.recommenders/
+.loadpath
+.factorypath
+*.launch
+tmp/
+local.properties
+
+# ===============================
+# IntelliJ IDEA files (if used)
+# ===============================
+.idea/
+*.iml
+
+# ===============================
+# VS Code files (if used)
+# ===============================
+.vscode/
+
+# ===============================
+# OS generated files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
